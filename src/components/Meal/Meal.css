@@ -1,0 +1,18 @@
+.meal-container img {
+  width: 268px;
+  height: 268px;
+}
+.btn-cart {
+  width: 100%;
+  background-color: #0eacac;
+  color: white;
+  border: none;
+  /* padding: 20px; */
+  font-size: 18px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.btn-cart .btn-text{
+     margin-right: 10px;
+}
